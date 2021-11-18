@@ -29,7 +29,7 @@ jobs:
     - name: 'signin'
       env:
         USERNAME: ${{ 2020212505 }}
-        PASSWORD: ${{ 17072581Lfl }}
+        PASSWORD: ${{ 17072581lfl }}
         AREA: ${{ 北京市 昌平区 }}
         PROVINCE: ${{ 北京市 }}
         CITY: ${{ 北京市 }}
