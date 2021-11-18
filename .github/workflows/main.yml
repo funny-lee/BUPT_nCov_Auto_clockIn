@@ -28,7 +28,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: 'signin'
       env:
-        USERNAME: ${{ 李芳黎 }}
+        USERNAME: ${{ 2020212505 }}
         PASSWORD: ${{ 17072581Lfl }}
         AREA: ${{ 北京市 昌平区 }}
         PROVINCE: ${{ 北京市 }}
