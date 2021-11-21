@@ -34,5 +34,5 @@ jobs:
         PROVINCE: ${{ secrets.PROVINCE }}       # 所在省份，例如"北京市"
         CITY: ${{ secrets.CITY }}               # 所在城市，例如"北京市"
         SFZX: ${{ secrets.SFZX }}
-        run: python auto.py
+      run: python auto.py
 
